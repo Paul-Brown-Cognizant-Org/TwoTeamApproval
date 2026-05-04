@@ -1,1 +1,2 @@
 -- dummy SQL file
+-- test of PR
